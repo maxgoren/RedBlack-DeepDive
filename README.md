@@ -17,7 +17,7 @@ LLRBTree.cpp - Recursive implementation of Left Leaning Red/Black tree from Sedg
 
 Works In Progess:
 ```
-CLRS-RBTree.cpp - as presented in Cormen et. al.'s "Introduction to algorithms". sys/tree.h on bsd systems and linux/types/tree.h
+CLRS-RB.cpp - as presented in Cormen et. al.'s "Introduction to algorithms". sys/tree.h on bsd systems and linux/types/tree.h
                   in the linux kernel are rather faithful implementations of this version, albeit in C
 ```
 
