@@ -1,7 +1,10 @@
 # A deep dive into Red/Black Trees
 
 In taking a closer look at the ubiquious red/black tree ive implemented several different versions
-as described in different books/resources on Data Strucutres and Algorithms.
+as described in different books/resources on Data Strucutres and Algorithms. I'm focusing on the different
+approaches to node insertion, as deletion from Red/Black trees is incredibly complex. The exception
+being Left Leaning red black trees, which can take advantage of a version of hibbard deletion which takes
+the necessary recoloring into consideration.
 
 So Far:
 ```
