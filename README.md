@@ -16,12 +16,13 @@ RBTree.cpp - Recursive implentation of Red/Black tree from Sedgewicks Algorithms
 LLRBTree.cpp - Recursive implementation of Left Leaning Red/Black tree from Sedgewicks 2008 paper. A greatly simplified
               method of implementing this somewhat cumbersome data structure, representing a 30+ year evolution of the concept
                as present by professor sedgewick.
-```
 
-Works In Progess:
-```
-CLRS-RB.cpp - as presented in Cormen et. al.'s "Introduction to algorithms". sys/tree.h on bsd systems and linux/types/tree.h
-                  in the linux kernel are rather faithful implementations of this version, albeit in C
+RedBlack-CLRS.cpp - as presented in Cormen et. al.'s "Introduction to algorithms". sys/tree.h on bsd systems and linux/types/tree.h
+                  in the linux kernel are rather faithful implementations of this version, albeit in C, so i decided to give a 
+                  shot at it in C++ this would not have gotten completed without thumbing through p.j. laugers "The C++ Standard Template Library"
+                  I'd like to point out that this code is almost twice as long as the next longest implementation in terms of LOC. 
+                  IDK why cormen choose to implement this data structure the way he did, but its ugly, and complicated for no good reason
+                  and somehow has become "the gold standard" in red/black tree implementation. perhaps i'm missing something...
 ```
 
 Coming Eventually
