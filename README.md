@@ -23,6 +23,8 @@ RedBlack-CLRS.cpp - as presented in Cormen et. al.'s "Introduction to algorithms
                   I'd like to point out that this code is almost twice as long as the next longest implementation in terms of LOC. 
                   IDK why cormen choose to implement this data structure the way he did, but its ugly, and complicated for no good reason
                   and somehow has become "the gold standard" in red/black tree implementation. perhaps i'm missing something...
+             
+redblack.java - Iterative Red/Black tree, but in Java. Based on Sedgewicks original version.
 ```
 
 Coming Eventually
