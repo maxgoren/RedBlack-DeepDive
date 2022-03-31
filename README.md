@@ -30,6 +30,5 @@ redblack.java - Iterative Red/Black tree, but in Java. Based on Sedgewicks origi
 Coming Eventually
 ```
 The highly OOP-centric implementation present in Goodrich and Tamassia's "Data Structures and Algorithms in C++". This is a VERY different
-take compared to the other appraoches commonly seen. Interestingly i believe this is the version the C++ STL version is based on, though
-i could be wrong.
+approach compared to the other appraoches commonly seen. It makes use of several interesting design patterns, especially the Locator pattern.
 ```
